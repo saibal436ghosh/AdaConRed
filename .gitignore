@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Local datasets
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Generated NumPy outputs
+*.npy
+
+# Model files
+*.pb
+*.index
+*.data-*
+
+# OS files
+.DS_Store
+Thumbs.db
