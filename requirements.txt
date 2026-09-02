@@ -1,0 +1,10 @@
+numpy==1.23.1
+scikit-learn==1.3.2
+matplotlib==3.2.0
+seaborn==0.11.0
+tensorflow
+Pillow
+tqdm
+torch
+transformers
+huggingface_hub
